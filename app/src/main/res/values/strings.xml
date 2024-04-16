@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LMS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Poorna Malinhara</string>
+    <string name="nav_header_subtitle">Poorna@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Course</string>
+    <string name="menu_slideshow">My Account</string>
+    <string name="my_api_key">AIzaSyCHJe1K2XnLMv21M4J5oZGM8Go5kkRC7OQ</string>
+</resources>
